@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH67 Optional parameter in C", "CH67 Optional parameter in C\CH67 Optional parameter in C.csproj", "{0A85E121-38EB-46C5-88A8-ED54AA6A4A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A85E121-38EB-46C5-88A8-ED54AA6A4A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A85E121-38EB-46C5-88A8-ED54AA6A4A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A85E121-38EB-46C5-88A8-ED54AA6A4A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A85E121-38EB-46C5-88A8-ED54AA6A4A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9294106B-7621-468E-820E-47184A0DF01A}
+	EndGlobalSection
+EndGlobal

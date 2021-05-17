@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH15  For and Foreach loop in C", "CH15  For and Foreach loop in C\CH15  For and Foreach loop in C.csproj", "{03EADDD7-33C4-4F85-BB37-16B780FEE60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EADDD7-33C4-4F85-BB37-16B780FEE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EADDD7-33C4-4F85-BB37-16B780FEE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EADDD7-33C4-4F85-BB37-16B780FEE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EADDD7-33C4-4F85-BB37-16B780FEE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D9E11D-9F6E-40C0-A109-B7DD35AACA39}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH8 Arrays in C", "CH8 Arrays in C\CH8 Arrays in C.csproj", "{B33A2C3B-EA25-48E1-8B4F-07FDE9CADB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33A2C3B-EA25-48E1-8B4F-07FDE9CADB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A2C3B-EA25-48E1-8B4F-07FDE9CADB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A2C3B-EA25-48E1-8B4F-07FDE9CADB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A2C3B-EA25-48E1-8B4F-07FDE9CADB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A1C896-6CDF-4DA4-88EE-62CD2227BFAA}
+	EndGlobalSection
+EndGlobal

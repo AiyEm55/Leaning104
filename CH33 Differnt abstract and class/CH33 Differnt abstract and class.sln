@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH33 Differnt abstract and class", "CH33 Differnt abstract and class\CH33 Differnt abstract and class.csproj", "{0D4FF822-7A41-49C5-9D27-A85D4B266005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4FF822-7A41-49C5-9D27-A85D4B266005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4FF822-7A41-49C5-9D27-A85D4B266005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4FF822-7A41-49C5-9D27-A85D4B266005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4FF822-7A41-49C5-9D27-A85D4B266005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97BD9000-8819-43F6-B218-1D99A84B8BDF}
+	EndGlobalSection
+EndGlobal

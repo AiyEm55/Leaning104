@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CH76_Working_with_Generic_list_class_and_range</RootNamespace>
+  </PropertyGroup>
+
+</Project>

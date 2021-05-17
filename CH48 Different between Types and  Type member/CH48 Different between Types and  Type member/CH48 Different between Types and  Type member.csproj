@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CH48_Different_between_Types_and__Type_member</RootNamespace>
+  </PropertyGroup>
+
+</Project>

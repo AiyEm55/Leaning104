@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CH69_Making_method_parameter_by_specify_parameter</RootNamespace>
+  </PropertyGroup>
+
+</Project>
