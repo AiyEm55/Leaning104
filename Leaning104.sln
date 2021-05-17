@@ -3,25 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leaning104", "Leaning104\Leaning104.csproj", "{C5155BF2-DB9B-468C-BFD6-2FB108D67B3B}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH26 Properties", "C:\Users\AiyEm55\source\repos\CH26 Properties\CH26 Properties\CH26 Properties.csproj", "{1111D6FD-EFB4-4DBC-BCAB-6666EC27CB80}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C5155BF2-DB9B-468C-BFD6-2FB108D67B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5155BF2-DB9B-468C-BFD6-2FB108D67B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5155BF2-DB9B-468C-BFD6-2FB108D67B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5155BF2-DB9B-468C-BFD6-2FB108D67B3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1111D6FD-EFB4-4DBC-BCAB-6666EC27CB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1111D6FD-EFB4-4DBC-BCAB-6666EC27CB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1111D6FD-EFB4-4DBC-BCAB-6666EC27CB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1111D6FD-EFB4-4DBC-BCAB-6666EC27CB80}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
