@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch 2 Read and Write", "CH2 Read and Write\Ch 2 Read and Write.csproj", "{8AC9E6DF-8348-495E-AC7A-8BC8C40ECA10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH3 Built-in Type", "CH3 Built-in Type\CH3 Built-in Type\CH3 Built-in Type.csproj", "{73E63E18-00B7-4A62-B2FE-F12D262472AB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC9E6DF-8348-495E-AC7A-8BC8C40ECA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC9E6DF-8348-495E-AC7A-8BC8C40ECA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC9E6DF-8348-495E-AC7A-8BC8C40ECA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC9E6DF-8348-495E-AC7A-8BC8C40ECA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
