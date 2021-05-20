@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml.Linq;
 
 namespace CL_ProviderContainer
 {
@@ -48,6 +49,11 @@ namespace CL_ProviderContainer
     }
     public class ManuDataInSQL : MenuBase
     {
+        //미니프로젝트메뉴카테고리관리자구현-OOP상속의존성 07 XML,  08 SQL
+        //public ManuDataInSQL(string connectionString)
+        //{
+        //    _connectionString = connectionString 
+        //}
         public override List<Menu> GetAll()
         {
             List<Menu> menus = new List<Menu>() {
@@ -58,9 +64,6 @@ namespace CL_ProviderContainer
             return menus;
         }
     }
-
-
-
     public class Menu
     {
         public string MenuID { get; set; }
