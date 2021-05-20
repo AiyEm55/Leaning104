@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH3 Built-in Type", "CH3 Bu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH4 String Type in C", "CH4 String Type in C\CH4 String Type in C\CH4 String Type in C.csproj", "{B2F11A09-C31C-4853-8759-A35EED794FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CL_ProviderContainer", "CL_ProviderContainer\CL_ProviderContainer.csproj", "{D8B8C2B2-C9BD-4FCF-A59F-72FD71C7AD74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B8C2B2-C9BD-4FCF-A59F-72FD71C7AD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8C2B2-C9BD-4FCF-A59F-72FD71C7AD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8C2B2-C9BD-4FCF-A59F-72FD71C7AD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8C2B2-C9BD-4FCF-A59F-72FD71C7AD74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
