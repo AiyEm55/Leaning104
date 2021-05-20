@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch 2 Read and Write", "CH2 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH3 Built-in Type", "CH3 Built-in Type\CH3 Built-in Type\CH3 Built-in Type.csproj", "{73E63E18-00B7-4A62-B2FE-F12D262472AB}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH4 String Type in C", "CH4 String Type in C\CH4 String Type in C\CH4 String Type in C.csproj", "{B2F11A09-C31C-4853-8759-A35EED794FDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E63E18-00B7-4A62-B2FE-F12D262472AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F11A09-C31C-4853-8759-A35EED794FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
